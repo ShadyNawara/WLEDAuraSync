@@ -58,10 +58,6 @@ python main.py
 The PC connected WLED is running in sync mode with the wall WLED
 &nbsp;
 
-
-
-https://user-images.githubusercontent.com/981568/132117085-d7034a6a-2531-41e8-a6d4-e5317b0141b0.mp4
-
-
+![WLEDAuraSyncResult](https://user-images.githubusercontent.com/981568/132117298-40fce832-cdf8-4fef-a29a-9a799adc6b50.gif)
 
 
