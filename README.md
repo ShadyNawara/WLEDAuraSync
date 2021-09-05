@@ -60,7 +60,8 @@ The PC connected WLED is running in sync mode with the wall WLED
 
 
 
-https://user-images.githubusercontent.com/981568/132116960-584661ce-45da-4f1b-b2f8-d15433d751a7.mp4
+https://user-images.githubusercontent.com/981568/132117085-d7034a6a-2531-41e8-a6d4-e5317b0141b0.mp4
+
 
 
 
