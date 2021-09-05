@@ -23,7 +23,7 @@ which can be compiled and flashed using the WLED guide [Compile Guide](https://g
 
 &nbsp;
 
-!! Main window Image goes here
+<img width="675" alt="mainwindow" src="https://user-images.githubusercontent.com/981568/132116570-ef91a008-8963-4d43-8d87-9d9a19757111.png">
 
 &nbsp;
 
@@ -56,7 +56,11 @@ python main.py
 ## Final Result
 
 The PC connected WLED is running in sync mode with the wall WLED
+&nbsp;
 
-!! final video goes here
+
+
+https://user-images.githubusercontent.com/981568/132116755-72cdf3c3-6be5-4a2a-a01b-330687f82821.mp4
+
 
 
