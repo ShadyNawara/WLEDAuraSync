@@ -51,7 +51,7 @@ python main.py
 
 ### C++
 1. open in visual studio 2019 and build
-2. version of serial library added is for Debug_x86 to make building easier, if you want to change configurations you will have to build the serial library as well, it uses visual studio too so its very easy to build [Serial | Github](https://github.com/wjwwood/serial)
+2. version of serial library added is for Release_x64 to make running easier, if you want to change configurations you will have to build the serial library as well, it uses visual studio too so its easy to build [Serial | Github](https://github.com/wjwwood/serial)
 
 ## Final Result
 
